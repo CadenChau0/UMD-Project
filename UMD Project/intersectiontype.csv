@@ -1,0 +1,14 @@
+intersectiontype,type
+1,NoIntersection
+2,4-WayIntersection
+3,T-Intersection
+4,Y-Intersection
+5,TrafficCircle
+6,Roundabout
+7,Five-pointormore
+8,NotReported
+9,Unknown
+10,L-Intersection
+11,OtherIntersectionType
+98,NotReported
+99,Unknown

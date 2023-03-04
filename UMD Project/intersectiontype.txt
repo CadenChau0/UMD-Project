@@ -1,0 +1,13 @@
+1=No Intersection                                                                                                                    
+2=4-Way Intersection                                                                                                          
+3=T-Intersection                                                                                                                 
+4=Y-Intersection                                                                                                                                 
+5=Traffic Circle                                                         
+6=Roundabout                                                                                                                
+7=Five-point or more
+8=Not Reported                                                                                                                                
+9=Unknown    
+10=L-Intersection
+11=Other Intersection Type          
+98=Not Reported                                                                                                                                
+99=Unknown                                                                                                                                                                    
